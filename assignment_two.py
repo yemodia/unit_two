@@ -1,0 +1,8 @@
+name = input("What is your name?")
+print("Hello",name," That's a very nice name")
+print("By the way my name is Yemo and I will be your chatbot for today")
+location = input("Where are you from?")
+print("Wow",location,"That is an awesome place to be from")
+user_favorite_number = input("What is your favorite number?")
+favorite_number = float(user_favorite_number) * float(2)
+print("My favorite number is:",favorite_number)
